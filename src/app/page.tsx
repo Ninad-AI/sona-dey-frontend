@@ -9,14 +9,14 @@ import Aurora from "../components/ui/Aurora";
 type FlowState = "idle" | "active";
 type CallPhase = "connecting" | "listening" | "speaking";
 
-const WS_URL = process.env.NEXT_PUBLIC_BACKEND_WS_URL || "ws://localhost:8000/ws/audio/garima";
+const WS_URL = process.env.NEXT_PUBLIC_BACKEND_WS_URL || "ws://localhost:8000/ws/audio/sona";
 const SESSION_DURATION_SECONDS = 30 * 60;
 
 const CREATOR = {
-  firstName: "Garima",
-  lastName: "Chaurasia",
-  name: "Garima Chaurasia",
-  image: "/garima.jpg",
+  firstName: "Sona",
+  lastName: "Dey",
+  name: "Sona Dey",
+  image: "/sona-1.png",
   role: "Model & Influencer",
 };
 

@@ -13,9 +13,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Garima Chaurasia — Voice Chat",
+  title: "Sona Dey — Voice Chat",
   description:
-    "Premium interactive voice chat experience with Garima Chaurasia, Model & Influencer. Start a live session now.",
+    "Premium interactive voice chat experience with Sona Dey, Model & Influencer. Start a live session now.",
 };
 
 export default function RootLayout({
